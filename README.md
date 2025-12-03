@@ -1,7 +1,7 @@
 # Introduction 
 - Mosfet (Metal Oxide Field Effect Transistor) is an electronic component that can act as a switch or an amplifier based on biasing and can control flow of current with change in input (gate) voltage  
 - NMOS will be taken as refernce : 
-//image
+![Project Logo](./images/nmos.png)
 # Regions of Operation
 - For switching operations we use cutoff (OFF switch) and triode region (ON switch) 
 - For amplification we use saturation region 
