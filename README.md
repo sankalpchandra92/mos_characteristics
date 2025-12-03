@@ -7,6 +7,7 @@
 - For amplification we use saturation region 
 ## Cutoff 
 There is no flow of current from drain to source in this region 
+
 The Pythagorean theorem, $a^2 + b^2 = c^2$, is fundamental in geometry
 ## Triode 
 In this region, mosfet acts as a voltage controlled resistor
