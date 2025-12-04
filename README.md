@@ -8,7 +8,7 @@
 ## Cutoff 
 There is no flow of current from drain to source in this region 
 
-Condition: $Vgs <= Vth$
+Condition: $V_{gs} < V_{th}$
 ## Triode 
 In this region, mosfet acts as a voltage controlled resistor
 
