@@ -9,11 +9,19 @@
 There is no flow of current from drain to source in this region 
 
 Condition: $V_{gs} < V_{th}$
+
+Result: $I_{D} ~ 0$
+## Saturation 
+In this region, mosfet behaves like a voltage controlled current source as now drain current is not dependent on drain to source voltage it is now controlled by gate voltage
+
+Condition:  
+- $V_{gs} \ge V_{th}$ 
+- $V_{ds} \ge V_{gs} - V_{th} $
+
+
 ## Triode 
 In this region, mosfet acts as a voltage controlled resistor
 
-## Saturation 
-In this region, mosfet behaves like a voltage controlled current source as now drain current is not dependent on drain to source voltage it is now controlled by gate voltage
 
 # DC Load Line 
 Common source amplifier with drain resistance
